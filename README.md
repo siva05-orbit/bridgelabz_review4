@@ -10,10 +10,15 @@ The project was implemented using:
 - Seaborn
 
 ---
-#Team Contributions
-Team Member	Contributions
-Sivasubramaniyan  E S	 : Data Cleaning and Preprocessing, Handling Missing Values, Datatype Conversion, Ranking Range Processing, Bar Plot and Pie Chart Visualizations
-Sandeep Reddy	 : Regional Distribution Analysis, Country-wise Ranking Analysis, Scatter Plot, Heatmap, Histogram, Final Insights
+
+## Team Contributions
+
+| Team Member | Contributions |
+|---|---|
+| Sivasubramaniyan E S | Data Cleaning and Preprocessing, Handling Missing Values, Datatype Conversion, Ranking Range Processing, Bar Plot and Pie Chart Visualizations |
+| Sandeep Reddy | Regional Distribution Analysis, Country-wise Ranking Analysis, Scatter Plot, Heatmap, Histogram, Final Insights |
+
+---
 
 # Objectives
 
@@ -44,22 +49,24 @@ The dataset contains information about:
 - Overall university scores
 
 ---
-#Visualizations Created
+
+# Visualizations Created
 
 The following visualizations were implemented:
 
-Bar Plot – Top countries by university count
-Pie Chart – Regional distribution
-Scatter Plot – Rank vs Overall Score
-Heatmap – Correlation analysis
-Histogram – Overall score distribution
+- Bar Plot – Top countries by university count
+- Pie Chart – Regional distribution
+- Scatter Plot – Rank vs Overall Score
+- Heatmap – Correlation analysis
+- Histogram – Overall score distribution
 
 Each visualization includes:
+- Proper titles
+- Axis labels
+- Insights and observations
 
-Proper titles
-Axis labels
-Insights and observations
+---
 
-#Conclusion
-This project successfully analyzed global university rankings using Python-based data analytics techniques. The study highlighted global education trends, ranking patterns, and country-wise performance while demonstrating practical applications of Pandas, NumPy, Matplotlib, and Seaborn in real-world data analysis
+# Conclusion
 
+This project successfully analyzed global university rankings using Python-based data analytics techniques. The study highlighted global education trends, ranking patterns, and country-wise performance while demonstrating practical applications of Pandas, NumPy, Matplotlib, and Seaborn in real-world data analysis.
